@@ -1,3 +1,5 @@
 This is File A
 This is change to a file 
 This is a new change in the file
+
+Change done to see merging effect
